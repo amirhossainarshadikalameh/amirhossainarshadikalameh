@@ -36,7 +36,7 @@ Details, timeline and publications: **[amirhossainarshadikalameh.github.io](http
 
 ## 🎓 Teaching
 
-Teaching Assistant at IUT, Sep 2024 – Aug 2025 — graduate *Complex Systems*, *Quantum Mechanics I & II*, *Mathematical Physics II* and *Physics II*. Physics Olympiad instructor at NODET (Sampad) since 2022.
+Teaching Assistant at IUT since Sep 2024, five courses — graduate *Complex Systems* with Prof. Farhad Shahbazi (current), *Quantum Mechanics I & II*, *Mathematical Physics II* and *Physics II*. Physics Olympiad preparation instructor at NODET (Sampad), 2022 – 2025.
 
 ## 🧰 Tech stack
 
